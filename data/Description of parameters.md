@@ -1,4 +1,4 @@
-| Название признака | Итоговое описание |
+| Name | Description |
 |--------------------|-------------------|
 | Сумма | Total order amount for delivery |
 | Материал | Material ID |
