@@ -10,5 +10,9 @@ This research work focuses on empirical evidence of the effectiveness of impleme
 + файл "KNN.ipynb" (содержит исходный код модели МО, сделанный на алгоритме "К-ближайшие соседи")
 + файл "RandomForest.ipynb" (содержит исходный код модели МО, сделанный на алгоритме "Случайный Лес")
 + файл "XGBoost.ipynb" (содержит исходный код модели МО, сделанный на алгоритме "XGBoost")
-### Advanced
+### Feature Engineering & Data Analysis
+
+
+
+### Final Model
    
